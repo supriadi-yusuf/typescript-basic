@@ -1,3 +1,5 @@
+source : https://www.youtube.com/watch?v=ugOonjYVxYM
+
 tsc --init
 
 config :

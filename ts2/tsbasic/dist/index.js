@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const customTypeDemo_1 = require("./customTypeDemo");
+const dataTypeDemo_1 = require("./dataTypeDemo");
+const functionDemo_1 = require("./functionDemo");
+const interfaceDemo_1 = require("./interfaceDemo");
+(0, dataTypeDemo_1.dataTypeDemo)();
+(0, customTypeDemo_1.CustomTypeDemo)();
+(0, functionDemo_1.functionDemo)();
+(0, interfaceDemo_1.InterfaceDemo)();
